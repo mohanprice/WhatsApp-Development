@@ -4,3 +4,5 @@ Author : MohanRaj
 2 profile Picture
 3 Attachments
 4 Status uploading
+5 Status Hiding
+6 Last Seen Hiding
