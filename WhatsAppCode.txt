@@ -6,3 +6,5 @@ Author : MohanRaj
 4 Status uploading
 5 Status Hiding
 6 Last Seen Hiding
+7 Audio Calling
+8 Video Calling
